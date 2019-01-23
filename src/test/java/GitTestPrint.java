@@ -6,7 +6,7 @@ public class GitTestPrint {
 	public void sysoTest() {
 		
 		System.out.println("Testing Git");
-		// need to commit
+		
 	}
 	
 	
